@@ -1,3 +1,5 @@
 /demo
 *.out
 *.test
+config.bat
+node_modules
